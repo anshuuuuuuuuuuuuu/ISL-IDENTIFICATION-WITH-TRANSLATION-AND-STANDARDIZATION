@@ -8,7 +8,7 @@ import requests
 import streamlit as st
 
 # Set up the Gemini API key and endpoint
-api_key = "AIzaSyA6b9xthtuJUcI3LfO9z5D_Pj1e77pXgQc"
+api_key = "INSERT YOUR GEMINI API KEY HERE (OBTAIN IT FOR FREE FROM GOOGLE API DEVELOPER )"
 endpoint = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent"
 
 # Initialize the text-to-speech engine
