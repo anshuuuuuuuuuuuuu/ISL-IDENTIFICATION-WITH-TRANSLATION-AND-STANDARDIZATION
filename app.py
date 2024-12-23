@@ -18,6 +18,7 @@ engine = pyttsx3.init()
 model = load_model('action_recognition_model1.h5')
 
 # Define class names
+# Add more classes according to your custom dataset . This is an expandable project with multiple classes.
 class_names = ['hello', 'this', 'prototype', 'demonstration']
 
 # Initialize Mediapipe Hand model
