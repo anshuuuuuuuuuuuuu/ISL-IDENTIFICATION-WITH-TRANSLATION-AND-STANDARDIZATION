@@ -5,15 +5,15 @@ NOTE: Model training will require a computer with a discrete Nvidia GPU for proc
 
 
 The dependencies are:-
-:mediapipe
-:keras
-:sklearn
-:pyttsx3
-:streamlit
-:pandas
-:numpy
-:tensorflow
-:openCV
+* mediapipe<br/>
+* keras<br/>
+* sklearn<br/>
+* pyttsx3<br/>
+* streamlit<br/>
+* pandas<br/>
+* numpy<br/>
+* tensorflow<br/>
+* openCV<br/>
 
 
 This repository contains a basic model that can predict a few signs, code for streamlit frontend to run the model and code base to train the model further as per personal preference.
