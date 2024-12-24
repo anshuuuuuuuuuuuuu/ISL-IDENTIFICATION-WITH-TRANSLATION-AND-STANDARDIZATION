@@ -2,6 +2,8 @@
 The model identifies sign language and returns a proper sentence in desired language in audio as well as visual format.
 
 NOTE: Model training will require a computer with a discrete Nvidia GPU for processing visual data.
+<br/>
+Make Sure to add some of your custom signs to try and test the model.
 
 
 The dependencies are:-
