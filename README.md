@@ -18,4 +18,4 @@ The dependencies are:-
 * openCV<br/>
 
 
-This repository contains a basic model that can predict a few signs, code for streamlit frontend to run the model and code base to train the model further as per personal preference.
+This repository contains a basic model that can predict a few signs, code for streamlit frontend to run the model and code base to train the model further as per personal preference.To try out the project just clone model and app.py file and run team in a environment with above dependenices loaded
