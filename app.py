@@ -67,6 +67,7 @@ language = st.text_input("Preferred Language", "english")
 frame_window = st.image([])  # Initialize a window for the video frames
 
 # Start video capture
+# Ensure that you have webcam enableb with proper permissions
 cap = cv2.VideoCapture(0)
 
 # Set up the hand model with Mediapipe
