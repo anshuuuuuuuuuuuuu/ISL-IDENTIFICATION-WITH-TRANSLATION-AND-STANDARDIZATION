@@ -1,7 +1,7 @@
 # ISL-IDENTIFICATION-WITH-TRANSLATION-AND-STANDARDIZATION
 The model identifies sign language and returns a proper sentence in desired language in audio as well as visual format.
 
-NOTE: Model training will require a computer with a discrete Nvidia GPU for processing visual data.
+NOTE: Model training will require a computer with a dedicated Nvidia GPU for processing visual data.
 <br/>
 Make Sure to add some of your custom signs to try and test the model. The model uses certain libraries which requires GPU processing , so ensure that you must have GPU enabled device.
 
