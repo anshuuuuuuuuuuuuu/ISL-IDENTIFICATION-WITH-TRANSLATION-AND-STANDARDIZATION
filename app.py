@@ -84,7 +84,7 @@ with mp_hands.Hands(min_detection_confidence=0.4, min_tracking_confidence=0.4) a
         elif stop_button:
             recording = False
         
-        # If recording, process the frames
+        # If recording, process the frames from the webcam
         if recording:
             image = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
             image.flags.writeable = False
