@@ -21,4 +21,4 @@ The dependencies are:-
 
 **This project was Associated with SIH24 under PS1716 for Sign Language to Text/Speech Conversion**.
 
-This repository contains a basic model that can predict a few signs, code for streamlit frontend to run the model and code base to train the model further as per personal preference.To try out the project just clone model and app.py file and run team in a environment with above dependenices loaded . 
+This repository contains a basic model that can predict a few signs, code for streamlit frontend to run the model and code base to train the model further as per personal preference.To try out the project just clone model and app.py file and run folder in a environment with above dependenices loaded . 
