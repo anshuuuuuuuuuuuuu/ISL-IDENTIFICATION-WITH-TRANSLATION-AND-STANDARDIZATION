@@ -149,6 +149,6 @@ with mp_hands.Hands(min_detection_confidence=0.4, min_tracking_confidence=0.4) a
             cap.release()
             break
 
-# Release the capture when done
+# Release the Web capture when done
 cap.release()
 cv2.destroyAllWindows()
