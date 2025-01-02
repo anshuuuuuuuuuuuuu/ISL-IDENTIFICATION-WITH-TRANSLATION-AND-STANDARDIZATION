@@ -25,7 +25,7 @@ class_names = ['hello', 'this', 'prototype', 'demonstration']
 mp_hands = mp.solutions.hands
 mp_drawing = mp.solutions.drawing_utils
 
-# Variables for prediction and recording state
+# Variables for predictions and recording state
 last_prediction_time = 0
 prediction_delay = 2  # seconds
 predicted_label = ""
