@@ -10,7 +10,7 @@ The dependencies are:-
 * mediapipe<br/>
 * keras<br/>
 * sklearn<br/>
-* PyTorch<br/>
+* pyttsx3<br/>
 * streamlit<br/>
 * pandas<br/>
 * numpy<br/>
