@@ -59,7 +59,6 @@ def standardize_sentence(predictions, language):
         return "Error in text generation."
 
 # Streamlit UI elements
-# Improved the UI
 st.title("Sign Language Recognition App")
 start_button = st.button("Start Recording")
 stop_button = st.button("Stop Recording")
