@@ -15,7 +15,7 @@ The dependencies are:-
 * pandas<br/>
 * numpy<br/>
 * tensorflow<br/>
-* openCV<br/>
+* openCV <br/>
 
 <br/>
 
