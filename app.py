@@ -11,7 +11,7 @@ import streamlit as st
 api_key = "INSERT YOUR GEMINI API KEY HERE (OBTAIN IT FOR FREE FROM GOOGLE API DEVELOPER )"
 endpoint = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent"
 
-# Initialize the text-to-speech engine
+# Initialize the text-to-speech engine 
 engine = pyttsx3.init()
 
 # Load the saved model
