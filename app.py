@@ -13,7 +13,7 @@ endpoint = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-f
 
 # Initialize the text-to-speech engine 
 engine = pyttsx3.init()
-
+ 
 # Load the saved model 
 model = load_model('action_recognition_model1.h5')
 
