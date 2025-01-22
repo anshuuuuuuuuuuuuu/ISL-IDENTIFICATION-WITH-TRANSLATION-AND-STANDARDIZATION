@@ -15,7 +15,7 @@ The dependencies are:-
 * numpy<br/>
 * tensorflow<br/>
 * openCV <br/>
- 
+  
 <br/>
 
 **This project was Associated with SIH24 under PS1716 for Sign Language to Text/Speech Conversion**.  
