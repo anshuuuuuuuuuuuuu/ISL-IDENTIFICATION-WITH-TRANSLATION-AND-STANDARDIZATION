@@ -147,6 +147,12 @@ with mp_hands.Hands(min_detection_confidence=0.4, min_tracking_confidence=0.4) a
             st.write("Recording stopped. Press 'Start Recording' to resume.")
             cap.release()
             break
+         
+ # Proper cleanup when stopped
+        if not recording:
+            cap.release()
+            cv2.destroyAllWindows()
+            break
 
 # Release the Web capture when done
 cap.release()
