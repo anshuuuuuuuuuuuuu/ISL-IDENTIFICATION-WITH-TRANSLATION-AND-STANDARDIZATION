@@ -10,7 +10,7 @@ The dependencies are:-
 * keras<br/>
 * sklearn <br/>     
 * pyttsx3 <br/>     
-* streamlit<br/> 
+* streamlit<br/>  
 * pandas<br/>
 * numpy<br/>
 * tensorflow<br/>
