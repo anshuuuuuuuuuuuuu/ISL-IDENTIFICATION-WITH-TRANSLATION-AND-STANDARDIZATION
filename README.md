@@ -11,7 +11,7 @@ The dependencies are:-
 * sklearn <br/>     
 * pyttsx3 <br/>     
 * streamlit<br/>  
-* pandas<br/>
+* pandas<br/> 
 * numpy<br/>
 * tensorflow<br/>
 * openCV <br/>
