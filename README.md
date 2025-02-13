@@ -13,7 +13,7 @@ The dependencies are:-
 * streamlit<br/>   
 * pandas<br/> 
 * numpy<br/>
-* tensorflow<br/>
+* tensorflow<br/> 
 * openCV <br/>
   
 <br/>
