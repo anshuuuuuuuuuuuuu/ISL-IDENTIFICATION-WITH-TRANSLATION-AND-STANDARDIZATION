@@ -6,7 +6,7 @@ NOTE: Model training will require a computer with a dedicated Nvidia GPU for pro
 Make Sure to add some of your custom signs to try and test the model. The model uses certain libraries which requires GPU processing , so ensure that you must have GPU enabled device. 
  
 The dependencies are:-    
-* mediapipe<br/>  
+* mediapipe<br/>     
 * keras<br/>
 * sklearn <br/>     
 * pyttsx3 <br/>     
