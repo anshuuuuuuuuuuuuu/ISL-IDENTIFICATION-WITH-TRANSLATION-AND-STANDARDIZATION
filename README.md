@@ -7,7 +7,7 @@ Make Sure to add some of your custom signs to try and test the model. The model 
  
 The dependencies are:-    
 * mediapipe<br/>     
-* keras<br/> 
+* keras<br/>  
 * sklearn <br/>      
 * pyttsx3 <br/>     
 * streamlit<br/>       
