@@ -15,7 +15,7 @@ endpoint = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-f
 engine = pyttsx3.init()
  
 # Load the saved model 
-model = load_model('action_recognition_model1.h5')
+model = load_model('action_recognition_model1.h5') 
 
 # Define class names 
 # Add more classes according to your custom dataset . This is an expandable project with multiple classes.
