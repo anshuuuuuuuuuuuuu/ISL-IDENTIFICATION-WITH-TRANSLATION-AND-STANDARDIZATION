@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import mediapipe as mp
 from   keras.models import load_model
-import time
+import time 
 import pyttsx3
 import requests
 import streamlit as st
