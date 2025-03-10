@@ -6,8 +6,6 @@ import time
 import pyttsx3
 import requests
 import streamlit as st
-import pandas as pd
-import numpy as np
 
 # Set up the Gemini API key and endpoint from google gemini Website
 api_key = "INSERT YOUR GEMINI API KEY HERE (OBTAIN IT FOR FREE FROM GOOGLE API DEVELOPER )"
