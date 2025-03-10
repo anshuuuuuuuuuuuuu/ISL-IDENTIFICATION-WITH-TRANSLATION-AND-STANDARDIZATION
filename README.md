@@ -1,5 +1,5 @@
 # ISL-IDENTIFICATION-WITH-TRANSLATION-AND-STANDARDIZATION
-The model identifies sign language and returns a proper sentence in desired language in audio as well as visual format.
+The model identifies sign language in real time and returns a proper sentence in desired language in audio as well as visual format.
  
 NOTE: Model training will require a computer with a dedicated Nvidia GPU for processing visual data.
 <br/>
