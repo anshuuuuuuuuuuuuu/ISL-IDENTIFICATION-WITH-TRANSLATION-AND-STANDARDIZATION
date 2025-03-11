@@ -9,6 +9,9 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
+
+def func(a , b):
+  return a + b
 # Set up the Gemini API key and endpoint from google gemini Website
 api_key = "INSERT YOUR GEMINI API KEY HERE (OBTAIN IT FOR FREE FROM GOOGLE API DEVELOPER )"
 endpoint = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent"
